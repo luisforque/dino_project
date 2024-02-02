@@ -1,0 +1,101 @@
+[<div class="dinosaur--container">
+<div class="layout-row">
+<div class="layout-column dinosaur--title-container">
+<div class="repel">
+<h1 class="dinosaur--name dinosaur--name-unhyphenated">Dilophosaurus</h1>
+<div class="dinosaur--social-share-header"><div class="social-share--container">
+<div class="social-share--icons cluster">
+<div class="facebook social-share--icon--container">
+<a aria-label="Share on facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus" rel="noopener" target="_blank">
+<svg class="social-share--icon" fill="none" height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+<circle cx="14" cy="14" fill="#333333" r="14"></circle>
+<path d="M15.1783 21.9729V15.143H17.5302L17.882 12.4813H15.1783V10.7824C15.1783 10.0119 15.398 9.48656 16.5315 9.48656L17.9776 9.4859V7.10507C17.7275 7.07269 16.8692 7 15.8705 7C13.7858 7 12.358 8.24031 12.358 10.5181V12.4813H10V15.143H12.358V21.9729H15.1783Z" fill="white"></path>
+</svg>
+</a>
+</div>
+<div class="twitter social-share--icon--container">
+<a aria-label="Share on twitter" href="https://twitter.com/intent/tweet?text=Dilophosaurus%0Ahttps://www.nhm.ac.uk/discover/dino-directory/dilophosaurus" rel="noopener" target="_blank">
+<svg fill="none" height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+<circle cx="14" cy="14" fill="#333333" r="14"></circle>
+<path d="M22.1667 9.68591C21.6087 9.94384 21.0089 10.1176 20.3795 10.1959C21.0222 9.79514 21.5158 9.16018 21.7477 8.4035C21.1467 8.7746 20.4806 9.04438 19.7716 9.18979C19.2047 8.5601 18.3952 8.16663 17.5004 8.16663C15.4914 8.16663 14.0152 10.1182 14.469 12.1441C11.8837 12.0093 9.59097 10.7196 8.05598 8.75947C7.24077 10.2156 7.63321 12.1205 9.01843 13.0851C8.50908 13.068 8.02881 12.9225 7.60983 12.6797C7.5757 14.1806 8.60893 15.5847 10.1054 15.8973C9.66744 16.021 9.18779 16.0499 8.69993 15.9526C9.09553 17.2396 10.2444 18.1759 11.6069 18.2022C10.2988 19.2701 8.65064 19.7472 7 19.5445C8.37701 20.4637 10.0131 21 11.7699 21C17.5472 21 20.8111 15.9197 20.614 11.3631C21.2219 10.9058 21.7496 10.3353 22.1667 9.68591V9.68591Z" fill="white"></path>
+</svg>
+</a>
+</div>
+<div class="email social-share--icon--container">
+<a aria-label="Share by email" href="mailto:?subject=Dilophosaurus&amp;body=http%3A//www.nhm.ac.uk/discover/dino-directory/dilophosaurus">
+<svg class="social-share--icon" fill="none" height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+<circle cx="14" cy="14" fill="#333333" r="14"></circle>
+<path d="M22.9269 8.40756C22.9269 8.40756 22.7861 7.08155 21.4675 7.00002C21.1491 7.00002 10.0223 7.00002 10.0223 7.00002H6.51115C6.51115 7.00002 5.16957 6.9768 5.01465 8.40756C5.02208 8.415 9.39591 12.9117 9.39591 12.9117L11.0682 14.6305L12.0205 15.4899C12.0205 15.4899 13.5535 16.8602 15.2302 15.9268C15.2302 15.9268 15.4581 15.815 15.9266 15.4009C16.4092 14.974 20.4602 10.8598 20.4602 10.8598C20.4602 10.8598 22.8751 8.43729 22.9269 8.40756Z" fill="white"></path>
+<path d="M22.9409 10.0391V17.047L19.4297 13.5505L22.9409 10.0391Z" fill="white"></path>
+<path d="M5 10.0391V17.047L8.51142 13.5505L5 10.0391Z" fill="white"></path>
+<path d="M9.33304 14.3785L11.0911 16.1402C11.0911 16.1402 11.8808 16.8758 12.2524 17.0073C12.2601 17.0229 14.0253 17.9364 15.8835 16.8835C15.8911 16.8758 16.3868 16.6124 17.4009 15.5751C18.4152 14.5376 18.5778 14.375 18.5778 14.375L22.9135 18.6875L22.9367 18.7184C22.9367 18.7184 22.805 20.0732 21.4346 20.0888C20.0643 20.1043 6.66243 20.0964 6.66243 20.0964C6.66243 20.0964 5.20681 20.1738 5.021 18.7028L9.33304 14.3785Z" fill="white"></path>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h1 class="dinosaur--name dinosaur--name-hyphenated">Dilophosaurus</h1>
+<dl class="dinosaur--name-description">
+<dt class="show-for-sr">Pronunciation:</dt>
+<dd class="dinosaur--pronunciation">die-LOAF-oh-sore-us</dd>
+<dt class="show-for-sr">Name meaning:</dt>
+<dd class="dinosaur--meaning">'two-ridged lizard'</dd>
+</dl>
+</div>
+</div>
+<div class="layout-row">
+<div class="dinosaur--image-container layout-column">
+<img alt="Dilophosaurus" class="dinosaur--image" src="https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dilopho.jpg"/>
+</div>
+</div>
+<div class="layout-row" data-columns="2">
+<div class="layout-column dinosaur--description-container">
+<div class="dinosaur--comparison">
+<div class="dinosaur--comparison-dino" data-dino-bodyshape="large theropod">
+<img alt="large theropod silhouette" src="/etc.clientlibs/nhmwww/clientlibs/clientlib-site/resources/images/svgs/dinodirectory/bodytype/large%20theropod.svg"/>
+</div>
+<div class="dinosaur--comparison-human"></div>
+</div>
+<dl class="dinosaur--description dinosaur--list" data-dino-length="6.0">
+<dt>Type of dinosaur:</dt>
+<dd><a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/large-theropod/gallery.html"> large theropod</a></dd>
+<dt>Length:</dt>
+<dd>6.0m</dd>
+<dt>Weight:</dt>
+<dd>300kg</dd>
+</dl>
+</div>
+<div class="layout-column dinosaur--info-container">
+<dl class="dinosaur--info dinosaur--list">
+<dt>Diet:</dt>
+<dd><a href="https://www.nhm.ac.uk/discover/dino-directory/diet/carnivores/gallery.html">carnivorous</a> <img alt="carnivorous food icon" src="/etc.clientlibs/nhmwww/clientlibs/clientlib-site/resources/images/svgs/dinodirectory/diet/carnivorous.svg"/></dd>
+<dt>Teeth:</dt>
+<dd>lots of sharp and curved teeth</dd>
+<dt>Food:</dt>
+<dd>other animals</dd>
+<dt>How it moved:</dt>
+<dd>on 2 legs</dd>
+<dt>When it lived:</dt>
+<dd><a href="https://www.nhm.ac.uk/discover/dino-directory/timeline/early-jurassic/gallery.html">Early Jurassic</a>, 190 million years ago</dd>
+<dt>Found in:</dt>
+<dd>
+<a href="https://www.nhm.ac.uk/discover/dino-directory/country/usa/gallery.html">USA</a>
+</dd>
+</dl>
+</div>
+</div>
+<div class="dinosaur--content-container layout-row">
+<p><i>Dilophosaurus</i> was a fast-moving meat-eating dinosaur.  A kink in its upper jaw may mean that it ate a certain kind of food, or attacked by gripping and holding on to prey - modern crocodiles have a similar kink.</p> <p>The pair of thin bony crests on its head may have been for display.</p>
+</div>
+<div class="dinosaur--taxonomy-container layout-row">
+<h2 class="dinosaur--taxonomy-title">Taxonomic details</h2>
+<dl class="dinosaur--taxonomy dinosaur--list">
+<dt>Taxonomy:</dt>
+<dd>Dinosauria, Saurischia, Theropoda, Neotheropoda, Dilophosauridae</dd>
+<dt>Type species:</dt>
+<dd>wetherilli</dd>
+</dl>
+</div>
+</div>]
